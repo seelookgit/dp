@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "配置",
-      "name": "2026.04.07.1700",
+      "name": "2026.04.10.0240",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
@@ -215,6 +215,7 @@
       "api": "csp_JuheShortDrama",
       "changeable": 0,
       "filterable": 1,
+      "searchable": 1,
       "hide": 1
     },
     {
@@ -222,7 +223,7 @@
       "name": "🌟｜盒马｜短剧",
       "type": 3,
       "api": "csp_HeMa",
-      "searchable": 0,
+      "searchable": 1,
       "changeable": 0,
       "filterable": 1,
       "hide": 1
@@ -232,7 +233,7 @@
       "name": "🌟｜剧王｜短剧",
       "type": 3,
       "api": "csp_JuWang",
-      "searchable": 0,
+      "searchable": 1,
       "changeable": 0,
       "filterable": 1,
       "hide": 1
@@ -255,6 +256,7 @@
       "api": "csp_TingChina",
       "changeable": 0,
       "filterable": 1,
+      "searchable": 1,
       "hide": 1
     },
     {
@@ -262,7 +264,7 @@
       "name": "🌈｜哔哩｜听书",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
