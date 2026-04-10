@@ -18,238 +18,6 @@
       "ext": "./config/configcenter.json"
     },
     {
-      "key": "wogg",
-      "name": "💗｜玩偶｜网盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "site": [
-          "https://woggpan.888484.xyz/",
-          "https://wogg.333232.xyz/",
-          "http://woggpan.xxooo.cf/",
-          "https://www.wogg.one/",
-          "http://www.wogg.lol/",
-          "https://wogg.xxooo.cf/"
-        ]
-      },
-      "hide": 1
-    },
-    {
-      "key": "木偶",
-      "name": "💗｜木偶｜网盘",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "site": [
-          "https://123.666291.xyz",
-          "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
-        ]
-      },
-      "hide": 1
-    },
-    {
-      "key": "蜡笔",
-      "name": "💗｜蜡笔｜网盘",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "site": [
-          "http://xiaocge.fun",
-          "http://feimo.fun",
-          "https://feimao666.fun",
-          "http://feimao888.fun",
-          "http://www.labi88.sbs",
-          "http://fmao.site",
-          "http://fmao.shop",
-          "http://xiaocgege.shop"
-        ]
-      },
-      "hide": 1
-    },
-    {
-      "key": "至臻",
-      "name": "💗｜至臻｜网盘",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://www.miqk.cc",
-          "https://xiaomiai.site",
-          "https://xiaomi666.fun",
-          "https://www.mihdr.top",
-          "https://www.zhizhenpan.fun"
-        ]
-      },
-      "hide": 1
-    },
-    {
-      "key": "多多",
-      "name": "💗｜多多｜网盘",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ]
-      },
-      "hide": 1
-    },
-    {
-      "key": "欧哥",
-      "name": "💗｜欧哥｜网盘",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "site": [
-          "https://woog.nxog.eu.org",
-          "https://woog.nxog.fun",
-          "https://woog.430520.xyz",
-          "https://woog.nxog.de5.net",
-          "https://woog.装歌.de5.net"
-        ]
-      },
-      "hide": 1
-    },
-    {
-      "key": "二小",
-      "name": "💗｜二小｜网盘",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "site": [
-          "https://www.erixaopan.fun",
-          "https://www.wexwp.cc",
-          "https://wexwp.cc",
-          "https://2xiaopan.top",
-          "https://www.2xiaopan.top"
-        ]
-      },
-      "hide": 1
-    },
-    {
-      "key": "虎斑",
-      "name": "💗｜虎斑｜网盘",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "site": [
-          "http://103.45.162.207:20720"
-        ]
-      },
-      "hide": 1
-    },
-    {
-      "key": "闪电",
-      "name": "💗｜闪电｜网盘",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "site": [
-          "https://shandian.blog",
-          "https://sd.sduc.site"
-        ]
-      },
-      "hide": 1
-    },
-    {
-      "key": "小飒",
-      "name": "💗｜小飒｜网盘",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "site": [
-          "http://xsayang.fun:12512"
-        ]
-      },
-      "hide": 1
-    },
-    {
-      "key": "juheduanju",
-      "name": "🌟｜聚合｜短剧",
-      "type": 3,
-      "api": "csp_JuheShortDrama",
-      "changeable": 0,
-      "filterable": 1,
-      "searchable": 1,
-      "hide": 1
-    },
-    {
-      "key": "HeMa",
-      "name": "🌟｜盒马｜短剧",
-      "type": 3,
-      "api": "csp_HeMa",
-      "searchable": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "hide": 1
-    },
-    {
-      "key": "JuWang",
-      "name": "🌟｜剧王｜短剧",
-      "type": 3,
-      "api": "csp_JuWang",
-      "searchable": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "hide": 1
-    },
-    {
-      "key": "七星短剧",
-      "name": "🌟丨七星丨短剧",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "hide": 1
-    },
-    {
       "key": "tingchina",
       "name": "📚｜海盗｜听书",
       "type": 3,
@@ -377,6 +145,182 @@
       "ext": {
         "sources": [
           "百度"
+        ]
+      }
+    },
+    {
+      "key": "玩偶",
+      "name": "💗｜玩偶｜网盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "https://wogg.xxooo.cf"
+        ]
+      }
+    },
+    {
+      "key": "木偶",
+      "name": "💗｜木偶｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "https://www.muou.site",
+          "https://666.666291.xyz",
+          "https://www.muou.asia"
+        ]
+      }
+    },
+    {
+      "key": "蜡笔",
+      "name": "💗｜蜡笔｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "http://xiaocgege.shop",
+          "http://fmao.shop",
+          "http://xiaocge.fun"
+        ]
+      }
+    },
+    {
+      "key": "闪电",
+      "name": "💗｜闪电｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "https://sd.sduc.site"
+        ]
+      }
+    },
+    {
+      "key": "至臻",
+      "name": "💗｜至臻｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "http://www.miqk.cc",
+          "https://mihdr.top",
+          "https://zhizhen1.top",
+          "https://www.mihdr.top"
+        ]
+      }
+    },
+    {
+      "key": "多多",
+      "name": "💗｜多多｜网盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "https://tv.yydsys.top",
+          "https://tv.214521.xyz",
+          "https://yydsys.de5.net",
+          "https://tv.yydsys.cc"
+        ]
+      }
+    },
+    {
+      "key": "欧哥",
+      "name": "💗｜欧哥｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "https://woog.nxog.eu.org"
+        ]
+      }
+    },
+    {
+      "key": "二小",
+      "name": "💗｜二小｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "https://www.2xiaozhan.top",
+          "https://2xiaopan.top",
+          "https://www.wexwp.cc",
+          "https://www.erxiaozhan.top",
+          "https://www.2xiaopan.top"
+        ]
+      }
+    },
+    {
+      "key": "虎斑",
+      "name": "💗｜虎斑｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "http://xhban.xyz:20720",
+          "http://154.222.27.33:20720"
+        ]
+      }
+    },
+    {
+      "key": "小斑",
+      "name": "💗｜小斑｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "http://xsayang.fun:12512",
+          "http://154.201.83.50:12512"
         ]
       }
     }
