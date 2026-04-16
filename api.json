@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "配置",
-      "name": "2026.04.10.0240",
+      "name": "2026.04.14.2100",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
@@ -176,9 +176,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://www.muou.site",
           "https://666.666291.xyz",
-          "https://www.muou.asia"
+          "https://www.muou.asia",
+          "https://www.muou.site"
         ]
       }
     },
@@ -228,10 +228,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://www.miqk.cc",
           "https://mihdr.top",
-          "https://zhizhen1.top",
-          "https://www.mihdr.top"
+          "https://www.mihdr.top",
+          "https://zhizhen1.top"
         ]
       }
     },
@@ -247,10 +246,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://tv.yydsys.cc",
+          "https://tv.yydsys.top",
           "https://tv.214521.xyz",
-          "https://yydsys.de5.net",
-          "https://tv.yydsys.top"
+          "https://tv.yydsys.cc",
+          "https://yydsys.de5.net"
         ]
       }
     },
@@ -283,9 +282,9 @@
       "ext": {
         "site": [
           "https://www.2xiaozhan.top",
+          "https://www.wexwp.cc",
           "https://2xiaopan.top",
           "https://www.erxiaozhan.top",
-          "https://www.wexwp.cc",
           "https://www.2xiaopan.top"
         ]
       }
