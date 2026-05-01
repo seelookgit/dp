@@ -176,8 +176,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://www.muou.site",
           "https://www.muou.asia",
+          "https://www.muou.site",
           "https://666.666291.xyz"
         ]
       }
@@ -195,8 +195,8 @@
       "ext": {
         "site": [
           "http://xiaocgege.shop",
-          "http://xiaocge.fun",
-          "http://fmao.shop"
+          "http://fmao.shop",
+          "http://xiaocge.fun"
         ]
       }
     },
@@ -229,8 +229,9 @@
       "ext": {
         "site": [
           "http://www.miqk.cc",
-          "https://zhizhen1.top",
-          "https://www.mihdr.top"
+          "https://www.mihdr.top",
+          "https://mihdr.top",
+          "https://zhizhen1.top"
         ]
       }
     },
@@ -246,6 +247,7 @@
       "hide": 1,
       "ext": {
         "site": [
+          "https://tv.yydsys.top",
           "https://tv.214521.xyz",
           "https://tv.yydsys.cc",
           "https://yydsys.de5.net"
@@ -280,10 +282,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://www.wexwp.cc",
           "https://www.2xiaozhan.top",
-          "https://www.erxiaozhan.top",
-          "https://www.2xiaopan.top"
+          "https://www.wexwp.cc",
+          "https://www.2xiaopan.top",
+          "https://www.erxiaozhan.top"
         ]
       }
     },
@@ -330,7 +332,7 @@
     {
       "name": "github",
       "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
     }
   ],
   "parses": [
