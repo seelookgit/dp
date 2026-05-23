@@ -194,8 +194,24 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://xiaocge.fun",
           "http://xiaocgege.shop"
+        ]
+      }
+    },
+    {
+      "key": "闪电",
+      "name": "💗｜闪电｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "http://sd.sduc.site",
+          "http://shandian.blog"
         ]
       }
     },
@@ -211,10 +227,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://zhizhen1.top",
+          "http://www.miqk.cc",
           "https://mihdr.top",
-          "https://www.mihdr.top",
-          "http://www.miqk.cc"
+          "https://zhizhen1.top"
         ]
       }
     },
@@ -231,8 +246,25 @@
       "ext": {
         "site": [
           "https://yydsys.de5.net",
-          "https://tv.yydsys.top",
-          "https://tv.214521.xyz"
+          "https://tv.214521.xyz",
+          "https://tv.yydsys.cc",
+          "https://tv.yydsys.top"
+        ]
+      }
+    },
+    {
+      "key": "欧哥",
+      "name": "💗｜欧哥｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "https://woog.nxog.eu.org"
         ]
       }
     },
@@ -248,9 +280,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://www.erxiaozhan.top",
           "https://www.2xiaozhan.top",
           "https://www.wexwp.cc",
+          "https://www.erxiaozhan.top",
           "https://www.2xiaopan.top"
         ]
       }
@@ -267,8 +299,23 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://xhban.xyz:20720",
-          "http://103.45.162.207:20720"
+          "http://109.244.63.150:16969"
+        ]
+      }
+    },
+    {
+      "key": "小斑",
+      "name": "💗｜小斑｜网盘",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "http://103.45.162.207:12512"
         ]
       }
     }
