@@ -1,17 +1,15 @@
 {
-    "categories": [
+  "categories": [
+    {
+      "key": "1",
+      "name": "收藏",
+      "shares": [
         {
-            "key": "collect",
-            "hide": false,
-            "name": "收藏",
-            "shares": [
-                {
-                    "name": "总前委字幕组",
-                    "remarks": "总前委字幕组",
-                    "url": "https://pan.baidu.com/s/1TgKLYiCCdQSMxOGNSJtzKA?pwd=zhi3",
-                    "pwd": "zhi3"
-                }
-            ]
+          "name": "总前委字幕组",
+          "url": "https://baidu.com/s/1TgKLYiCCdQSMxOGNSJtzKA?pwd=zhi3",
+          "pwd": "zhi3"
         }
-    ]
+      ]
+    }
+  ]
 }

@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "配置",
-      "name": "2026.04.14.2100",
+      "name": "2026.05.22.1400",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
@@ -160,7 +160,6 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://www.wogg.net",
           "https://wogg.xxooo.cf"
         ]
       }
@@ -177,9 +176,9 @@
       "hide": 1,
       "ext": {
         "site": [
+          "https://666.666291.xyz",
           "https://www.muou.asia",
-          "https://www.muou.site",
-          "https://666.666291.xyz"
+          "https://www.muou.site"
         ]
       }
     },
@@ -195,6 +194,7 @@
       "hide": 1,
       "ext": {
         "site": [
+          "http://xiaocge.fun",
           "http://xiaocgege.shop"
         ]
       }
@@ -211,10 +211,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://www.miqk.cc",
-          "https://www.mihdr.top",
+          "https://zhizhen1.top",
           "https://mihdr.top",
-          "https://zhizhen1.top"
+          "https://www.mihdr.top",
+          "http://www.miqk.cc"
         ]
       }
     },
@@ -230,26 +230,9 @@
       "hide": 1,
       "ext": {
         "site": [
+          "https://yydsys.de5.net",
           "https://tv.yydsys.top",
-          "https://tv.214521.xyz",
-          "https://tv.yydsys.cc",
-          "https://yydsys.de5.net"
-        ]
-      }
-    },
-    {
-      "key": "欧哥",
-      "name": "💗｜欧哥｜网盘",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": {
-        "site": [
-          "https://woog.nxog.eu.org"
+          "https://tv.214521.xyz"
         ]
       }
     },
@@ -265,9 +248,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://www.wexwp.cc",
-          "https://www.2xiaozhan.top",
           "https://www.erxiaozhan.top",
+          "https://www.2xiaozhan.top",
+          "https://www.wexwp.cc",
           "https://www.2xiaopan.top"
         ]
       }
@@ -284,8 +267,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://103.45.162.207:20720",
-          "http://xhban.xyz:20720"
+          "http://xhban.xyz:20720",
+          "http://103.45.162.207:20720"
         ]
       }
     }
