@@ -294,7 +294,7 @@
     {
       "name": "iptv",
       "type": 0,
-      "url": "http://192.168.1:8000/iptv.m3u"
+      "url": "http://192.168.1.2:8000/iptv.m3u"
     },
     {
       "name": "github",
