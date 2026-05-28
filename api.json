@@ -130,6 +130,7 @@
       "hide": 1,
       "ext": {
         "site": [
+          "https://www.wogg.net",
           "https://wogg.xxooo.cf"
         ]
       }
@@ -147,8 +148,8 @@
       "ext": {
         "site": [
           "https://666.666291.xyz",
-          "https://www.muou.asia",
-          "https://www.muou.site"
+          "https://www.muou.site",
+          "https://www.muou.asia"
         ]
       }
     },
@@ -164,7 +165,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://xiaocgege.shop"
+          "http://xiaocgege.shop",
+          "http://xiaocge.fun"
         ]
       }
     },
@@ -197,8 +199,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://www.miqk.cc",
           "https://mihdr.top",
+          "https://www.mihdr.top",
           "https://zhizhen1.top"
         ]
       }
@@ -215,8 +217,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://yydsys.de5.net",
           "https://tv.214521.xyz",
+          "https://yydsys.de5.net",
           "https://tv.yydsys.cc",
           "https://tv.yydsys.top"
         ]
@@ -250,26 +252,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://www.2xiaozhan.top",
-          "https://www.wexwp.cc",
           "https://www.erxiaozhan.top",
           "https://www.2xiaopan.top"
-        ]
-      }
-    },
-    {
-      "key": "虎斑",
-      "name": "虎斑",
-      "type": 3,
-      "api": "csp_MacCMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": {
-        "site": [
-          "http://109.244.63.150:16969"
         ]
       }
     },
