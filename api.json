@@ -5,8 +5,15 @@
   "spider": "./jar/dongli-spider.jar",
   "sites": [
     {
+      "key": "Nostr",
+      "name": "🌀｜Nostr｜推荐",
+      "type": 3,
+      "api": "csp_Nostr",
+      "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
+    },
+    {
       "key": "配置",
-      "name": "2026.05.30.2300",
+      "name": "2026.06.01.2000",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
@@ -130,9 +137,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://woggpan.888484.xyz",
+          "https://wogg.xxooo.cf",
           "https://www.wogg.net",
-          "https://wogg.xxooo.cf"
+          "https://woggpan.888484.xyz"
         ]
       }
     },
@@ -148,9 +155,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://www.muou.asia",
           "https://666.666291.xyz",
-          "https://www.muou.site"
+          "https://www.muou.site",
+          "https://www.muou.asia"
         ]
       }
     },
@@ -183,8 +190,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://sd.sduc.site",
-          "http://shandian.blog"
+          "http://shandian.blog",
+          "http://sd.sduc.site"
         ]
       }
     },
@@ -200,10 +207,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://zhizhen1.top",
+          "http://www.miqk.cc",
           "https://www.mihdr.top",
           "https://mihdr.top",
-          "http://www.miqk.cc"
+          "https://zhizhen1.top"
         ]
       }
     },
@@ -211,7 +218,7 @@
       "key": "多多",
       "name": "多多",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_MacCMS",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -255,9 +262,8 @@
       "ext": {
         "site": [
           "https://www.2xiaozhan.top",
-          "https://www.2xiaopan.top",
           "https://www.wexwp.cc",
-          "https://www.erxiaozhan.top"
+          "https://www.2xiaopan.top"
         ]
       }
     },
