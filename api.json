@@ -5,13 +5,6 @@
   "spider": "./jar/dongli-spider.jar",
   "sites": [
     {
-      "key": "Nostr",
-      "name": "🌀｜Nostr｜推荐",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
-    },
-    {
       "key": "配置",
       "name": "2026.06.01.2000",
       "type": 3,
@@ -111,6 +104,26 @@
       "ext": "./config/myali.json"
     },
     {
+      "key": "Nostr",
+      "name": "🌀｜Nostr｜推荐",
+      "type": 3,
+      "api": "csp_Nostr",
+      "searchable": 0,
+      "changeable": 0,
+      "hide": 1,
+      "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
+    },
+    {
+      "key": "Nostr-emby",
+      "name": "🌀｜Nostr-emby｜推荐",
+      "type": 3,
+      "api": "csp_Nostr",
+      "searchable": 0,
+      "changeable": 0,
+      "hide": 1,
+      "homePage": "https://18746.kstore.space/nostr-emby.html"
+    },
+    {
       "key": "PanSou",
       "name": "盘搜",
       "type": 3,
@@ -138,7 +151,6 @@
       "ext": {
         "site": [
           "https://wogg.xxooo.cf",
-          "https://www.wogg.net",
           "https://woggpan.888484.xyz"
         ]
       }
@@ -155,9 +167,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://666.666291.xyz",
+          "https://www.muou.asia",
           "https://www.muou.site",
-          "https://www.muou.asia"
+          "https://666.666291.xyz"
         ]
       }
     },
@@ -190,8 +202,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://shandian.blog",
-          "http://sd.sduc.site"
+          "http://sd.sduc.site",
+          "http://shandian.blog"
         ]
       }
     },
@@ -208,9 +220,9 @@
       "ext": {
         "site": [
           "http://www.miqk.cc",
-          "https://www.mihdr.top",
+          "https://zhizhen1.top",
           "https://mihdr.top",
-          "https://zhizhen1.top"
+          "https://www.mihdr.top"
         ]
       }
     },
@@ -226,10 +238,10 @@
       "hide": 1,
       "ext": {
         "site": [
+          "https://tv.yydsys.top",
           "https://tv.yydsys.cc",
           "https://yydsys.de5.net",
-          "https://tv.214521.xyz",
-          "https://tv.yydsys.top"
+          "https://tv.214521.xyz"
         ]
       }
     },
@@ -263,7 +275,8 @@
         "site": [
           "https://www.2xiaozhan.top",
           "https://www.wexwp.cc",
-          "https://www.2xiaopan.top"
+          "https://www.2xiaopan.top",
+          "https://www.erxiaozhan.top"
         ]
       }
     },
