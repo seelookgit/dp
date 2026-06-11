@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "配置",
-      "name": "2026.06.01.2000",
+      "name": "2026.06.06.0010",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
@@ -150,8 +150,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://wogg.xxooo.cf",
-          "https://woggpan.888484.xyz"
+          "https://woggpan.888484.xyz",
+          "https://wogg.xxooo.cf"
         ]
       }
     },
@@ -185,8 +185,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://xiaocgege.shop",
-          "http://xiaocge.fun"
+          "http://xiaocge.fun",
+          "http://xiaocgege.shop"
         ]
       }
     },
@@ -220,9 +220,9 @@
       "ext": {
         "site": [
           "http://www.miqk.cc",
+          "https://www.mihdr.top",
           "https://zhizhen1.top",
-          "https://mihdr.top",
-          "https://www.mihdr.top"
+          "https://mihdr.top"
         ]
       }
     },
@@ -239,9 +239,9 @@
       "ext": {
         "site": [
           "https://tv.yydsys.top",
+          "https://tv.214521.xyz",
           "https://tv.yydsys.cc",
-          "https://yydsys.de5.net",
-          "https://tv.214521.xyz"
+          "https://yydsys.de5.net"
         ]
       }
     },
@@ -274,9 +274,9 @@
       "ext": {
         "site": [
           "https://www.2xiaozhan.top",
-          "https://www.wexwp.cc",
           "https://www.2xiaopan.top",
-          "https://www.erxiaozhan.top"
+          "https://www.erxiaozhan.top",
+          "https://www.wexwp.cc"
         ]
       }
     },
