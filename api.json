@@ -56,8 +56,36 @@
       "timeout": 60
     },
     {
+      "key": "Nostr",
+      "name": "🌀Nostr",
+      "type": 3,
+      "api": "csp_Nostr",
+      "searchable": 0,
+      "changeable": 0,
+      "hide": 1,
+      "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
+    },
+    {
+      "key": "Nostr-emby",
+      "name": "🌀Emby",
+      "type": 3,
+      "api": "csp_Nostr",
+      "searchable": 0,
+      "changeable": 0,
+      "homePage": "https://nostr.aws.dpdns.org"
+    },
+    {
+      "key": "Nostr-embytv",
+      "name": "🌀EmbyTV",
+      "type": 3,
+      "api": "csp_Nostr",
+      "searchable": 0,
+      "changeable": 0,
+      "homePage": "https://nostrtv.aws.dpdns.org"
+    },
+    {
       "key": "myquark",
-      "name": "❤️｜我的┃夸氪",
+      "name": "❤️我的夸克",
       "type": 3,
       "api": "csp_MyQuark",
       "searchable": 0,
@@ -73,7 +101,7 @@
     },
     {
       "key": "mybaidu",
-      "name": "❤️｜我的┃百度",
+      "name": "❤️我的百度",
       "type": 3,
       "api": "csp_MyBaiDu",
       "searchable": 0,
@@ -89,7 +117,7 @@
     },
     {
       "key": "myali",
-      "name": "❤️｜我的┃阿里",
+      "name": "❤️我的阿里",
       "type": 3,
       "api": "csp_MyAli",
       "searchable": 0,
@@ -102,34 +130,6 @@
       },
       "timeout": 30,
       "ext": "./config/myali.json"
-    },
-    {
-      "key": "Nostr",
-      "name": "🌀｜Nostr｜推荐",
-      "type": 3,
-      "api": "csp_Nostr",
-      "searchable": 0,
-      "changeable": 0,
-      "hide": 1,
-      "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
-    },
-    {
-      "key": "Nostr-emby",
-      "name": "🌀｜Emby",
-      "type": 3,
-      "api": "csp_Nostr",
-      "searchable": 0,
-      "changeable": 0,
-      "homePage": "https://nostr.aws.dpdns.org"
-    },
-    {
-      "key": "Nostr-embytv",
-      "name": "🌀｜EmbyTV",
-      "type": 3,
-      "api": "csp_Nostr",
-      "searchable": 0,
-      "changeable": 0,
-      "homePage": "https://nostrtv.aws.dpdns.org"
     },
     {
       "key": "PanSou",
@@ -158,8 +158,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://woggpan.888484.xyz",
           "https://wogg.xxooo.cf",
+          "https://woggpan.888484.xyz",
           "https://woggpan.xxooo.cf"
         ]
       }
@@ -177,8 +177,8 @@
       "ext": {
         "site": [
           "https://www.muou.site",
-          "https://666.666291.xyz",
-          "https://www.muou.asia"
+          "https://www.muou.asia",
+          "https://666.666291.xyz"
         ]
       }
     },
@@ -230,8 +230,8 @@
       "ext": {
         "site": [
           "http://www.miqk.cc",
-          "https://mihdr.top",
           "https://www.mihdr.top",
+          "https://mihdr.top",
           "https://zhizhen1.top"
         ]
       }
@@ -249,8 +249,8 @@
       "ext": {
         "site": [
           "https://tv.yydsys.cc",
-          "https://tv.yydsys.top",
           "https://yydsys.de5.net",
+          "https://tv.yydsys.top",
           "https://tv.214521.xyz"
         ]
       }
@@ -267,9 +267,9 @@
       "hide": 1,
       "ext": {
         "site": [
+          "https://woog.430520.xyz",
           "https://woog.nxog.eu.org",
-          "https://woog.nxog.fun",
-          "https://woog.430520.xyz"
+          "https://woog.nxog.fun"
         ]
       }
     },
@@ -287,7 +287,6 @@
         "site": [
           "https://www.2xiaozhan.top",
           "https://www.wexwp.cc",
-          "https://www.erxiaozhan.top",
           "https://www.2xiaopan.top"
         ]
       }
