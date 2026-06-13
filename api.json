@@ -115,13 +115,21 @@
     },
     {
       "key": "Nostr-emby",
-      "name": "🌀｜Nostr-emby｜推荐",
+      "name": "🌀｜Emby",
       "type": 3,
       "api": "csp_Nostr",
       "searchable": 0,
       "changeable": 0,
-      "hide": 1,
-      "homePage": "https://18746.kstore.space/nostr-emby.html"
+      "homePage": "https://nostr.aws.dpdns.org"
+    },
+    {
+      "key": "Nostr-embytv",
+      "name": "🌀｜EmbyTV",
+      "type": 3,
+      "api": "csp_Nostr",
+      "searchable": 0,
+      "changeable": 0,
+      "homePage": "https://nostrtv.aws.dpdns.org"
     },
     {
       "key": "PanSou",
@@ -152,8 +160,7 @@
         "site": [
           "https://woggpan.888484.xyz",
           "https://wogg.xxooo.cf",
-          "https://woggpan.xxooo.cf",
-          "https://www.wogg.net"
+          "https://woggpan.xxooo.cf"
         ]
       }
     },
@@ -170,8 +177,8 @@
       "ext": {
         "site": [
           "https://www.muou.site",
-          "https://www.muou.asia",
-          "https://666.666291.xyz"
+          "https://666.666291.xyz",
+          "https://www.muou.asia"
         ]
       }
     },
@@ -187,8 +194,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://xiaocgege.shop",
           "http://xiaocge.fun",
+          "http://xiaocgege.shop",
           "http://feimo.fun"
         ]
       }
@@ -223,9 +230,9 @@
       "ext": {
         "site": [
           "http://www.miqk.cc",
+          "https://mihdr.top",
           "https://www.mihdr.top",
-          "https://zhizhen1.top",
-          "https://mihdr.top"
+          "https://zhizhen1.top"
         ]
       }
     },
@@ -241,10 +248,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://tv.214521.xyz",
-          "https://tv.yydsys.top",
           "https://tv.yydsys.cc",
-          "https://yydsys.de5.net"
+          "https://tv.yydsys.top",
+          "https://yydsys.de5.net",
+          "https://tv.214521.xyz"
         ]
       }
     },
@@ -260,9 +267,9 @@
       "hide": 1,
       "ext": {
         "site": [
+          "https://woog.nxog.eu.org",
           "https://woog.nxog.fun",
-          "https://woog.430520.xyz",
-          "https://woog.nxog.eu.org"
+          "https://woog.430520.xyz"
         ]
       }
     },
@@ -279,9 +286,9 @@
       "ext": {
         "site": [
           "https://www.2xiaozhan.top",
-          "https://www.2xiaopan.top",
+          "https://www.wexwp.cc",
           "https://www.erxiaozhan.top",
-          "https://www.wexwp.cc"
+          "https://www.2xiaopan.top"
         ]
       }
     },
