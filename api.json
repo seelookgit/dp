@@ -62,7 +62,7 @@
       "api": "csp_Nostr",
       "searchable": 0,
       "changeable": 0,
-      "homePage": "https://nostr.aws.dpdns.org"
+      "homePage": "./config/nostr-emby.html"
     },
     {
       "key": "myquark",
