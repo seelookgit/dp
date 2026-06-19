@@ -213,7 +213,8 @@
         "site": [
           "https://zhizhen1.top",
           "https://www.mihdr.top",
-          "https://mihdr.top"
+          "https://mihdr.top",
+          "http://www.miqk.cc"
         ]
       }
     },
@@ -255,6 +256,25 @@
       }
     },
     {
+      "key": "二小",
+      "name": "二小",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "https://www.wexwp.cc",
+          "https://www.2xiaopan.top",
+          "https://www.erxiaozhan.top",
+          "https://www.2xiaozhan.top"
+        ]
+      }
+    },
+    {
       "key": "虎斑",
       "name": "虎斑",
       "type": 3,
@@ -267,6 +287,22 @@
       "ext": {
         "site": [
           "http://103.217.192.130:16969"
+        ]
+      }
+    },
+    {
+      "key": "小斑",
+      "name": "小斑",
+      "type": 3,
+      "api": "csp_MacCMS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "site": [
+          "http://103.45.162.207:12512"
         ]
       }
     }
