@@ -137,7 +137,7 @@
     },
     {
       "key": "guazi",
-      "name": "💥瓜子",
+      "name": "瓜子",
       "type": 3,
       "api": "csp_Guazi",
       "searchable": 1,
@@ -172,9 +172,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://www.wogg.net",
-          "https://wogg.xxooo.cf",
           "https://woggpan.xxooo.cf",
+          "https://wogg.xxooo.cf",
+          "https://www.wogg.net",
           "https://woggpan.888484.xyz"
         ]
       }
@@ -192,8 +192,8 @@
       "ext": {
         "site": [
           "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
+          "https://www.muou.asia",
+          "https://www.muou.site"
         ]
       }
     },
@@ -209,9 +209,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://xiaocgege.shop",
           "http://xiaocge.fun",
-          "http://feimo.fun"
+          "http://feimo.fun",
+          "http://xiaocgege.shop"
         ]
       }
     },
@@ -245,8 +245,8 @@
       "ext": {
         "site": [
           "http://www.miqk.cc",
-          "https://mihdr.top",
           "https://zhizhen1.top",
+          "https://mihdr.top",
           "https://www.mihdr.top"
         ]
       }
@@ -263,10 +263,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://tv.yydsys.cc",
+          "https://yydsys.de5.net",
           "https://tv.214521.xyz",
-          "https://tv.yydsys.top",
-          "https://yydsys.de5.net"
+          "https://tv.yydsys.cc",
+          "https://tv.yydsys.top"
         ]
       }
     },
@@ -349,7 +349,7 @@
     {
       "name": "github",
       "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
     }
   ],
   "parses": [
