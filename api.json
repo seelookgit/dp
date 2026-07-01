@@ -56,8 +56,8 @@
       "timeout": 60
     },
     {
-      "key": "Nostr",
-      "name": "🌀Nostr",
+      "key": "TMDB",
+      "name": "🌀TMDB",
       "type": 3,
       "api": "csp_Nostr",
       "searchable": 0,
@@ -73,6 +73,15 @@
       "changeable": 0,
       "indexs": 1,
       "ext": "./json/douban.json"
+    },
+    {
+      "key": "TX",
+      "name": "🌀腾讯视频",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
     },
     {
       "key": "myquark",
@@ -172,10 +181,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://woggpan.xxooo.cf",
-          "https://wogg.xxooo.cf",
           "https://www.wogg.net",
-          "https://woggpan.888484.xyz"
+          "https://woggpan.888484.xyz",
+          "https://woggpan.xxooo.cf",
+          "https://wogg.xxooo.cf"
         ]
       }
     },
@@ -191,8 +200,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://666.666291.xyz",
           "https://www.muou.asia",
+          "https://666.666291.xyz",
           "https://www.muou.site"
         ]
       }
@@ -209,9 +218,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://xiaocge.fun",
+          "http://xiaocgege.shop",
           "http://feimo.fun",
-          "http://xiaocgege.shop"
+          "http://xiaocge.fun"
         ]
       }
     },
@@ -263,9 +272,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://yydsys.de5.net",
           "https://tv.214521.xyz",
           "https://tv.yydsys.cc",
+          "https://yydsys.de5.net",
           "https://tv.yydsys.top"
         ]
       }
@@ -283,8 +292,8 @@
       "ext": {
         "site": [
           "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org",
-          "https://woog.430520.xyz"
+          "https://woog.430520.xyz",
+          "https://woog.nxog.eu.org"
         ]
       }
     },
@@ -301,9 +310,9 @@
       "ext": {
         "site": [
           "https://www.2xiaopan.top",
-          "https://www.2xiaozhan.top",
           "https://www.wexwp.cc",
-          "https://www.erxiaozhan.top"
+          "https://www.erxiaozhan.top",
+          "https://www.2xiaozhan.top"
         ]
       }
     },
