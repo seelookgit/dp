@@ -1,5 +1,4 @@
 {
-  "logo": "./assets/logo2025121201.png",
   "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用！",
   "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
   "spider": "./jar/dongli-spider.jar",
@@ -57,7 +56,7 @@
     },
     {
       "key": "TMDB",
-      "name": "🌀TMDB",
+      "name": "TMDB",
       "type": 3,
       "api": "csp_Nostr",
       "searchable": 0,
@@ -66,7 +65,7 @@
     },
     {
       "key": "csp_Douban",
-      "name": "🌀豆瓣",
+      "name": "豆瓣",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -76,7 +75,7 @@
     },
     {
       "key": "myquark",
-      "name": "❤️我的夸克",
+      "name": "我的夸克",
       "type": 3,
       "api": "csp_MyQuark",
       "searchable": 0,
@@ -92,7 +91,7 @@
     },
     {
       "key": "csp_PanShare115",
-      "name": "❤️我的115",
+      "name": "我的115",
       "type": 3,
       "jar": "./jar/vox.jar",
       "api": "csp_PanShare115",
@@ -105,7 +104,7 @@
     },
     {
       "key": "mybaidu",
-      "name": "❤️我的百度",
+      "name": "我的百度",
       "type": 3,
       "api": "csp_MyBaiDu",
       "searchable": 0,
@@ -121,7 +120,7 @@
     },
     {
       "key": "myali",
-      "name": "❤️我的阿里",
+      "name": "我的阿里",
       "type": 3,
       "api": "csp_MyAli",
       "searchable": 0,
@@ -172,10 +171,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://wogg.xxooo.cf",
-          "https://www.wogg.net",
           "https://woggpan.888484.xyz",
-          "https://woggpan.xxooo.cf"
+          "https://woggpan.xxooo.cf",
+          "https://wogg.xxooo.cf",
+          "https://www.wogg.net"
         ]
       }
     },
@@ -191,9 +190,10 @@
       "hide": 1,
       "ext": {
         "site": [
+          "https://666.666291.xyz",
           "https://www.muou.asia",
-          "https://www.muou.site",
-          "https://666.666291.xyz"
+          "https://123.666291.xyz",
+          "https://www.muou.site"
         ]
       }
     },
@@ -209,9 +209,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://feimo.fun",
           "http://xiaocgege.shop",
-          "http://xiaocge.fun"
+          "http://www.xiaocgege.shop",
+          "http://feimo.fun"
         ]
       }
     },
@@ -227,8 +227,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://shandian.blog",
-          "http://sd.sduc.site"
+          "http://sd.sduc.site",
+          "http://shandian.blog"
         ]
       }
     },
@@ -244,10 +244,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://www.miqk.cc",
+          "https://www.miqk.cc",
           "https://zhizhen1.top",
-          "https://mihdr.top",
-          "https://www.mihdr.top"
+          "https://www.mihdr.top",
+          "https://mihdr.top"
         ]
       }
     },
@@ -264,8 +264,8 @@
       "ext": {
         "site": [
           "https://tv.yydsys.cc",
-          "https://yydsys.de5.net",
           "https://tv.yydsys.top",
+          "https://yydsys.de5.net",
           "https://tv.214521.xyz"
         ]
       }
@@ -283,8 +283,8 @@
       "ext": {
         "site": [
           "https://woog.nxog.fun",
-          "https://woog.430520.xyz",
-          "https://woog.nxog.eu.org"
+          "https://woog.nxog.eu.org",
+          "https://woog.430520.xyz"
         ]
       }
     },
@@ -301,9 +301,8 @@
       "ext": {
         "site": [
           "https://www.2xiaopan.top",
-          "https://www.wexwp.cc",
-          "https://www.erxiaozhan.top",
-          "https://www.2xiaozhan.top"
+          "https://wexwp.cc",
+          "https://www.wexwp.cc"
         ]
       }
     },
@@ -319,7 +318,7 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://103.217.192.130:16969"
+          "http://121.205.88.174:16969"
         ]
       }
     },
@@ -335,7 +334,7 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://103.217.192.184:12512"
+          "http://121.205.88.174:12512"
         ]
       }
     }
