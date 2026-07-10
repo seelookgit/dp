@@ -2,6 +2,52 @@
   "categories": [
     {
       "key": "1",
+      "name": "收藏",
+      "shares": [
+        {
+          "name": "三国演义",
+          "url": "rX4be8Jk7wv"
+        },
+        {
+          "name": "205T电视剧",
+          "url": "4aYXSBnRYyX"
+        },
+        {
+          "name": "老K1",
+          "url": "zhrC5ZnmecT"
+        },
+        {
+          "name": "老K2",
+          "url": "TcsCVADur7j"
+        },
+        {
+          "name": "老K3",
+          "url": "CPJAyc8Lj5X"
+        },
+        {
+          "name": "4KREMUX1173部",
+          "url": "wgyZLoJvkmi"
+        },
+        {
+          "name": "4KREMUX原盘电影大合集",
+          "url": "PEGQgYjWrkP"
+        },
+        {
+          "name": "top250",
+          "url": "HjFiZ7hPsWM"
+        },
+        {
+          "name": "动漫完结",
+          "url": "LEaepiYfxcw"
+        },
+        {
+          "name": "动漫按字母排序",
+          "url": "9ocBHqjH1bs"
+        }
+      ]
+    },
+    {
+      "key": "2",
       "name": "小雅",
       "shares": [
         {
@@ -184,58 +230,6 @@
           "name": "📺画质演示测试（4K，8K，HDR，Dolby）",
           "url": "R53mucWAv9g",
           "pwd": "um50"
-        }
-      ]
-    },
-    {
-      "key": "2",
-      "name": "收藏",
-      "shares": [
-        {
-          "name": "三国演义",
-          "url": "rX4be8Jk7wv"
-        },
-        {
-          "name": "205T电视剧",
-          "url": "4aYXSBnRYyX"
-        },
-        {
-          "name": "老K1",
-          "url": "zhrC5ZnmecT"
-        },
-        {
-          "name": "老K2",
-          "url": "TcsCVADur7j"
-        },
-        {
-          "name": "老K3",
-          "url": "CPJAyc8Lj5X"
-        }
-      ]
-    },
-    {
-      "key": "3",
-      "name": "合集",
-      "shares": [
-        {
-          "name": "4KREMUX1173部",
-          "url": "wgyZLoJvkmi"
-        },
-        {
-          "name": "4KREMUX原盘电影大合集",
-          "url": "PEGQgYjWrkP"
-        },
-        {
-          "name": "top250",
-          "url": "HjFiZ7hPsWM"
-        },
-        {
-          "name": "动漫完结",
-          "url": "LEaepiYfxcw"
-        },
-        {
-          "name": "动漫按字母排序",
-          "url": "9ocBHqjH1bs"
         }
       ]
     }
