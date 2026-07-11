@@ -171,10 +171,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://wogg.xxooo.cf",
-          "https://woggpan.888484.xyz",
+          "https://woggpan.xxooo.cf",
           "https://www.wogg.net",
-          "https://woggpan.xxooo.cf"
+          "https://wogg.xxooo.cf",
+          "https://woggpan.888484.xyz"
         ]
       }
     },
@@ -190,8 +190,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://666.666291.xyz",
           "https://www.muou.asia",
+          "https://666.666291.xyz",
           "https://www.muou.site",
           "https://123.666291.xyz"
         ]
@@ -244,9 +244,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://mihdr.top",
           "https://www.miqk.cc",
           "https://www.mihdr.top",
+          "https://mihdr.top",
           "https://zhizhen1.top"
         ]
       }
@@ -264,8 +264,8 @@
       "ext": {
         "site": [
           "https://tv.yydsys.cc",
-          "https://tv.214521.xyz",
           "https://yydsys.de5.net",
+          "https://tv.214521.xyz",
           "https://tv.yydsys.top"
         ]
       }
@@ -282,9 +282,9 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://woog.nxog.fun",
+          "https://woog.nxog.eu.org",
           "https://woog.430520.xyz",
-          "https://woog.nxog.eu.org"
+          "https://woog.nxog.fun"
         ]
       }
     },
@@ -342,12 +342,12 @@
   "lives": [
     {
       "name": "iptv",
-      "type": 3,
+      "type": 0,
       "url": "http://192.168.1.2:8000/iptv.m3u"
     },
     {
       "name": "github",
-      "type": 3,
+      "type": 0,
       "url": "https://iptv.yang-1989.xyz/playlist.m3u"
     }
   ],
