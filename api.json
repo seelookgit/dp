@@ -91,19 +91,6 @@
       "ext": "./config/myquark.json"
     },
     {
-      "key": "csp_PanShare115",
-      "name": "我的115",
-      "type": 3,
-      "jar": "./jar/vox.jar;md5;cb13f438aabd092029ace09fde1f6ee8",
-      "api": "csp_PanShare115",
-      "searchable": 0,
-      "changeable": 0,
-      "timeout": 60,
-      "ext": {
-        "class": "./config/115share.txt"
-      }
-    },
-    {
       "key": "mybaidu",
       "name": "我的百度",
       "type": 3,
@@ -228,8 +215,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "http://shandian.blog",
-          "http://sd.sduc.site"
+          "http://sd.sduc.site",
+          "http://shandian.blog"
         ]
       }
     },
@@ -245,8 +232,8 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://www.miqk.cc",
           "https://mihdr.top",
+          "https://www.miqk.cc",
           "https://www.mihdr.top",
           "https://zhizhen1.top"
         ]
@@ -264,10 +251,10 @@
       "hide": 1,
       "ext": {
         "site": [
-          "https://tv.214521.xyz",
-          "https://tv.yydsys.cc",
           "https://yydsys.de5.net",
-          "https://tv.yydsys.top"
+          "https://tv.yydsys.cc",
+          "https://tv.yydsys.top",
+          "https://tv.214521.xyz"
         ]
       }
     },
@@ -283,9 +270,9 @@
       "hide": 1,
       "ext": {
         "site": [
+          "https://woog.nxog.eu.org",
           "https://woog.nxog.fun",
-          "https://woog.430520.xyz",
-          "https://woog.nxog.eu.org"
+          "https://woog.430520.xyz"
         ]
       }
     },
@@ -302,8 +289,8 @@
       "ext": {
         "site": [
           "https://www.2xiaopan.top",
-          "https://wexwp.cc",
-          "https://www.wexwp.cc"
+          "https://www.wexwp.cc",
+          "https://wexwp.cc"
         ]
       }
     },
